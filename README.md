@@ -292,14 +292,9 @@ fetch('http://localhost:5000/api/certificates', {
 
 ##  Screenshots
 
-### Dashboard
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
 
-### Certificate Verification
-![Verification](https://via.placeholder.com/800x400?text=Verification+Screenshot)
+![Screenshot_26-2-2026_221140_127 0 0 1](https://github.com/user-attachments/assets/8893bc85-c022-43f0-b8ea-a8f81a32fd58)
 
-### Certificate Creation
-![Create Certificate](https://via.placeholder.com/800x400?text=Create+Certificate+Screenshot)
 
 ##  Contributing
 
